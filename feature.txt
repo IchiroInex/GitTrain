@@ -1,3 +1,2 @@
-featureブランチで作成
+fetureブランチで作成
 feature2ブランチで更新
-あああ
